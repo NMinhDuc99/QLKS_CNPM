@@ -19,3 +19,4 @@ Tên đề tài: PHẦN MỀM QUẢN LÝ KHÁCH SẠN
 -Nhân viên bán hàng có các chức năng: tìm phòng trống, đặt phòng theo yêu cầu của khách, tạo, sửa thông tin và tra cứu thông tin của khách hàng trên hệ thống.
 
 -Quản lý có các chức năng: thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng, xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng, xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng trên hệ thống.
+
